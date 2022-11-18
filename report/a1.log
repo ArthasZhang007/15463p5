@@ -1,320 +1,223 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.13)  17 SEP 2022 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  18 NOV 2022 06:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/a1.tex
-(/afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/a1.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**c:/Users/a1103/Desktop/15463/assgn5/report/a1.tex
+(c:/Users/a1103/Desktop/15463/assgn5/report/a1.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+\bibindent=\dimen140
+) (c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen139
-\Gin@req@width=\dimen140
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count194
-\l__pdf_internal_box=\box50
-) (/afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/a1.aux)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen143
+)) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks20
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks21
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box53
+) (./a1.aux)
 \openout1 = `a1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count195
-\scratchdimen=\dimen141
-\scratchbox=\box51
-\nofMPsegments=\count196
-\nofMParguments=\count197
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count198
-\MPscratchDim=\dimen142
-\MPnumerator=\count199
-\makeMPintoPDFobject=\count266
-\everyMPtoPDFconversion=\toks20
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count272
+\scratchdimen=\dimen152
+\scratchbox=\box54
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen153
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
- [1
+<../data/output/default.png, id=1, 462.528pt x 346.896pt>
+File: ../data/output/default.png Graphic file (type png)
+<use ../data/output/default.png>
+Package pdftex.def Info: ../data/output/default.png  used on input line 18.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 17.
-<../data/output_white_demosaic.png, id=8, 462.528pt x 346.896pt>
-File: ../data/output_white_demosaic.png Graphic file (type png)
-<use ../data/output_white_demosaic.png>
-Package pdftex.def Info: ../data/output_white_demosaic.png  used on input line 36.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_white_correction.png, id=10, 462.528pt x 346.896pt>
-File: ../data/output_white_correction.png Graphic file (type png)
-<use ../data/output_white_correction.png>
-Package pdftex.def Info: ../data/output_white_correction.png  used on input line 37.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_white_brightened.png, id=11, 462.528pt x 346.896pt>
-File: ../data/output_white_brightened.png Graphic file (type png)
-<use ../data/output_white_brightened.png>
-Package pdftex.def Info: ../data/output_white_brightened.png  used on input line 38.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_white_gamma_correction.png, id=12, 462.528pt x 346.896pt>
-File: ../data/output_white_gamma_correction.png Graphic file (type png)
-<use ../data/output_white_gamma_correction.png>
-Package pdftex.def Info: ../data/output_white_gamma_correction.png  used on input line 39.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
- [1 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_white_demosaic.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_white_correction.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_white_brightened.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_white_gamma_correction.png>]
-<../data/output_grey_demosaic.png, id=25, 462.528pt x 346.896pt>
-File: ../data/output_grey_demosaic.png Graphic file (type png)
-<use ../data/output_grey_demosaic.png>
-Package pdftex.def Info: ../data/output_grey_demosaic.png  used on input line 48.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_grey_correction.png, id=26, 462.528pt x 346.896pt>
-File: ../data/output_grey_correction.png Graphic file (type png)
-<use ../data/output_grey_correction.png>
-Package pdftex.def Info: ../data/output_grey_correction.png  used on input line 49.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_grey_brightened.png, id=27, 462.528pt x 346.896pt>
-File: ../data/output_grey_brightened.png Graphic file (type png)
-<use ../data/output_grey_brightened.png>
-Package pdftex.def Info: ../data/output_grey_brightened.png  used on input line 50.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_grey_gamma_correction.png, id=28, 462.528pt x 346.896pt>
-File: ../data/output_grey_gamma_correction.png Graphic file (type png)
-<use ../data/output_grey_gamma_correction.png>
-Package pdftex.def Info: ../data/output_grey_gamma_correction.png  used on input line 51.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
- [2 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_grey_demosaic.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_grey_correction.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_grey_brightened.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_grey_gamma_correction.png>]
-<../data/output_multiply_demosaic.png, id=36, 462.528pt x 346.896pt>
-File: ../data/output_multiply_demosaic.png Graphic file (type png)
-<use ../data/output_multiply_demosaic.png>
-Package pdftex.def Info: ../data/output_multiply_demosaic.png  used on input line 59.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_multiply_correction.png, id=37, 462.528pt x 346.896pt>
-File: ../data/output_multiply_correction.png Graphic file (type png)
-<use ../data/output_multiply_correction.png>
-Package pdftex.def Info: ../data/output_multiply_correction.png  used on input line 60.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_multiply_brightened.png, id=38, 462.528pt x 346.896pt>
-File: ../data/output_multiply_brightened.png Graphic file (type png)
-<use ../data/output_multiply_brightened.png>
-Package pdftex.def Info: ../data/output_multiply_brightened.png  used on input line 61.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_multiply_gamma_correction.png, id=39, 462.528pt x 346.896pt>
-File: ../data/output_multiply_gamma_correction.png Graphic file (type png)
-<use ../data/output_multiply_gamma_correction.png>
-Package pdftex.def Info: ../data/output_multiply_gamma_correction.png  used on input line 62.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
- [3 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_multiply_demosaic.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_multiply_correction.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_multiply_brightened.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_multiply_gamma_correction.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 81--84
-
+Overfull \hbox (25.02289pt too wide) in paragraph at lines 18--19
+ [][] 
  []
 
-<../data/output_manual_demosaic.png, id=47, 462.528pt x 346.896pt>
-File: ../data/output_manual_demosaic.png Graphic file (type png)
-<use ../data/output_manual_demosaic.png>
-Package pdftex.def Info: ../data/output_manual_demosaic.png  used on input line 92.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_manual_correction.png, id=48, 462.528pt x 346.896pt>
-File: ../data/output_manual_correction.png Graphic file (type png)
-<use ../data/output_manual_correction.png>
-Package pdftex.def Info: ../data/output_manual_correction.png  used on input line 93.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_manual_brightened.png, id=49, 462.528pt x 346.896pt>
-File: ../data/output_manual_brightened.png Graphic file (type png)
-<use ../data/output_manual_brightened.png>
-Package pdftex.def Info: ../data/output_manual_brightened.png  used on input line 94.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_manual_gamma_correction.png, id=50, 462.528pt x 346.896pt>
-File: ../data/output_manual_gamma_correction.png Graphic file (type png)
-<use ../data/output_manual_gamma_correction.png>
-Package pdftex.def Info: ../data/output_manual_gamma_correction.png  used on input line 95.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-[4 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_demosaic.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_correction.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_brightened.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_gamma_correction.png>]
-<../data/output_manual_stair_demosaic.png, id=58, 462.528pt x 346.896pt>
-File: ../data/output_manual_stair_demosaic.png Graphic file (type png)
-<use ../data/output_manual_stair_demosaic.png>
-Package pdftex.def Info: ../data/output_manual_stair_demosaic.png  used on input line 103.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_manual_stair_correction.png, id=59, 462.528pt x 346.896pt>
-File: ../data/output_manual_stair_correction.png Graphic file (type png)
-<use ../data/output_manual_stair_correction.png>
-Package pdftex.def Info: ../data/output_manual_stair_correction.png  used on input line 104.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_manual_stair_brightened.png, id=60, 462.528pt x 346.896pt>
-File: ../data/output_manual_stair_brightened.png Graphic file (type png)
-<use ../data/output_manual_stair_brightened.png>
-Package pdftex.def Info: ../data/output_manual_stair_brightened.png  used on input line 105.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-<../data/output_manual_stair_gamma_correction.png, id=61, 462.528pt x 346.896pt>
-File: ../data/output_manual_stair_gamma_correction.png Graphic file (type png)
-<use ../data/output_manual_stair_gamma_correction.png>
-Package pdftex.def Info: ../data/output_manual_stair_gamma_correction.png  used on input line 106.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
- [5 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_stair_demosaic.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_stair_correction.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_stair_brightened.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/output_manual_stair_gamma_correction.png>]
-Overfull \hbox (4.54314pt too wide) in paragraph at lines 111--115
-\OT1/cmr/m/n/10 white stair from top left to bot-tom right : $\OML/cmm/m/it/10 white[] \OT1/cmr/m/n/10 = [(2723\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3382)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (3396\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3435)]$ 
+<../data/output/Q.png, id=3, 462.528pt x 346.896pt>
+File: ../data/output/Q.png Graphic file (type png)
+<use ../data/output/Q.png>
+Package pdftex.def Info: ../data/output/Q.png  used on input line 23.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+
+Overfull \hbox (25.02289pt too wide) in paragraph at lines 23--24
+ [][] 
  []
 
+<../data/output/enforce.png, id=4, 462.528pt x 346.896pt>
+File: ../data/output/enforce.png Graphic file (type png)
+<use ../data/output/enforce.png>
+Package pdftex.def Info: ../data/output/enforce.png  used on input line 42.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--115
-
+Overfull \hbox (25.02289pt too wide) in paragraph at lines 42--43
+ [][] 
  []
 
-<../data/campus.png, id=69, 6038.56pt x 4031.06pt>
-File: ../data/campus.png Graphic file (type png)
-<use ../data/campus.png>
-Package pdftex.def Info: ../data/campus.png  used on input line 141.
-(pdftex.def)             Requested size: 301.9457pt x 201.5648pt.
-[6 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/campus.png>]
-File: ../data/output_multiply_gamma_correction.png Graphic file (type png)
-<use ../data/output_multiply_gamma_correction.png>
-Package pdftex.def Info: ../data/output_multiply_gamma_correction.png  used on input line 148.
-(pdftex.def)             Requested size: 323.76738pt x 242.82553pt.
- [7]
-<../data/campus.jpg, id=77, 1445.4pt x 963.6pt>
-File: ../data/campus.jpg Graphic file (type jpg)
-<use ../data/campus.jpg>
-Package pdftex.def Info: ../data/campus.jpg  used on input line 154.
-(pdftex.def)             Requested size: 289.07487pt x 192.71658pt.
- [8 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/campus.jpg>]
-<../data/box_front.png, id=81, 4047.12pt x 3035.34pt>
-File: ../data/box_front.png Graphic file (type png)
-<use ../data/box_front.png>
-Package pdftex.def Info: ../data/box_front.png  used on input line 169.
-(pdftex.def)             Requested size: 242.81673pt x 182.11253pt.
-<../data/box_all.png, id=82, 2445.135pt x 1833.85126pt>
-File: ../data/box_all.png Graphic file (type png)
-<use ../data/box_all.png>
-Package pdftex.def Info: ../data/box_all.png  used on input line 170.
-(pdftex.def)             Requested size: 244.52782pt x 183.39586pt.
- [9 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/box_front.png> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/box_all.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 177--183
+[1
 
- []
-
-<../data/set_1_l.jpg, id=86, 945.2916pt x 1025.2704pt>
-File: ../data/set_1_l.jpg Graphic file (type jpg)
-<use ../data/set_1_l.jpg>
-Package pdftex.def Info: ../data/set_1_l.jpg  used on input line 205.
-(pdftex.def)             Requested size: 189.05496pt x 205.05045pt.
-<../data/set_1_m.jpg, id=87, 956.8548pt x 781.2387pt>
-File: ../data/set_1_m.jpg Graphic file (type jpg)
-<use ../data/set_1_m.jpg>
-Package pdftex.def Info: ../data/set_1_m.jpg  used on input line 206.
-(pdftex.def)             Requested size: 191.36757pt x 156.24496pt.
-<../data/set_1_s.jpg, id=88, 941.4372pt x 910.602pt>
-File: ../data/set_1_s.jpg Graphic file (type jpg)
-<use ../data/set_1_s.jpg>
-Package pdftex.def Info: ../data/set_1_s.jpg  used on input line 207.
-(pdftex.def)             Requested size: 188.2841pt x 182.11717pt.
-
-LaTeX Warning: Float too large for page by 19.91258pt on input line 209.
-
-[10]
-<../data/set_2_l.jpg, id=92, 955.1685pt x 1018.2843pt>
-File: ../data/set_2_l.jpg Graphic file (type jpg)
-<use ../data/set_2_l.jpg>
-Package pdftex.def Info: ../data/set_2_l.jpg  used on input line 215.
-(pdftex.def)             Requested size: 191.0303pt x 203.65324pt.
-<../data/set_2_m.jpg, id=93, 963.3591pt x 1096.8177pt>
-File: ../data/set_2_m.jpg Graphic file (type jpg)
-<use ../data/set_2_m.jpg>
-Package pdftex.def Info: ../data/set_2_m.jpg  used on input line 216.
-(pdftex.def)             Requested size: 192.66841pt x 219.35965pt.
-<../data/set_2_s.jpg, id=94, 963.6pt x 1099.4676pt>
-File: ../data/set_2_s.jpg Graphic file (type jpg)
-<use ../data/set_2_s.jpg>
-Package pdftex.def Info: ../data/set_2_s.jpg  used on input line 217.
-(pdftex.def)             Requested size: 192.71658pt x 219.88962pt.
-
-
-LaTeX Warning: Float too large for page by 119.40251pt on input line 219.
-
-<../data/set_3_l.jpg, id=95, 945.7734pt x 888.1983pt>
-File: ../data/set_3_l.jpg Graphic file (type jpg)
-<use ../data/set_3_l.jpg>
-Package pdftex.def Info: ../data/set_3_l.jpg  used on input line 224.
-(pdftex.def)             Requested size: 189.15132pt x 177.6365pt.
-<../data/set_3_m.jpg, id=96, 963.6pt x 716.6775pt>
-File: ../data/set_3_m.jpg Graphic file (type jpg)
-<use ../data/set_3_m.jpg>
-Package pdftex.def Info: ../data/set_3_m.jpg  used on input line 225.
-(pdftex.def)             Requested size: 192.71658pt x 143.33296pt.
-<../data/set_3_s.jpg, id=97, 963.3591pt x 775.2162pt>
-File: ../data/set_3_s.jpg Graphic file (type jpg)
-<use ../data/set_3_s.jpg>
-Package pdftex.def Info: ../data/set_3_s.jpg  used on input line 226.
-(pdftex.def)             Requested size: 192.66841pt x 155.04048pt.
-[11] [12 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_1_l.jpg> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_1_m.jpg> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_1_s.jpg>] [13 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_2_l.jpg> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_2_m.jpg> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_2_s.jpg>] [14 </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_3_l.jpg> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_3_m.jpg> </afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/../data/set_3_s.jpg>] (/afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/a1.aux) ) 
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../data/output/default.png>] [2 <../data/output/Q.png>] [3 <../data/output/enforce.png>] (./a1.aux) ) 
 Here is how much of TeX's memory you used:
- 1562 strings out of 478287
- 29999 string characters out of 5849289
- 313589 words of memory out of 5000000
- 19757 multiletter control sequences out of 15000+600000
- 473514 words of font info for 42 fonts, out of 8000000 for 9000
+ 2680 strings out of 474971
+ 44176 string characters out of 5780120
+ 388079 words of memory out of 5000000
+ 24159 multiletter control sequences out of 15000+600000
+ 475261 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,62p,243b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /afs/andrew.cmu.edu/usr7/lingxiz/private/15463/assgn1/report/a1.pdf (15 pages, 96018186 bytes).
+ 60i,14n,67p,242b,233s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on a1.pdf (3 pages, 744315 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
