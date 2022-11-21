@@ -57,7 +57,7 @@ def displayZ(Z):
     # set 3D figure
     fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
     surf = ax.plot_surface(X, Y, Z, facecolors=color_shade,
-                       rstride=1, cstride=1)
+                       rstride=3, cstride=3)
     plt.axis('off')
     plt.show()
 
@@ -156,20 +156,20 @@ def enforce(b):
 
 
 def integrate(B):
-    u = 1
-    v = 1
-    l = 1
-    G = np.array([
-        [1,0,0],
-        [0,1,0],
-        [u,v,l]
-    ])
-    for i in range(B.shape[0]):
-        for j in range(B.shape[1]):
-            B[i][j] = G @ B[i][j]
+    # u = 1
+    # v = 1
+    # l = 1
+    # G = np.array([
+    #     [1,0,0],
+    #     [0,1,0],
+    #     [u,v,l]
+    # ])
+    # for i in range(B.shape[0]):
+    #     for j in range(B.shape[1]):
+    #         B[i][j] = G @ B[i][j]
     # displayb(B)
     A,N = getAN(B)
-    displayb(B)
+    # displayb(B)
     x = N[:,:,0]
     y = N[:,:,1]
     z = N[:,:,2]
@@ -184,7 +184,12 @@ def integrate(B):
     # plt.show()
     displayZ(I)
 
-
+def cali(I, rows, cols):
+    w = cp_hw5.load_sources()
+    B = np.linalg.lstsq(w, I, rcond=None)[0]
+    B = np.reshape(np.transpose(B), (rows, cols, 3))
+    return B
+    #print(I.shape, w.shape)
 
 def main():
     I, rows, cols = loadIstack()
@@ -193,9 +198,12 @@ def main():
     # B = uncali(I, rows, cols)
     # part B
     # B = enforce(B)
+    
     # part D
+    B = cali(I, rows, cols)
+    # displayb(B)
 
     # part C
-    # integrate(B)
+    integrate(B)
 
 main()
