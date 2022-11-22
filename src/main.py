@@ -57,7 +57,7 @@ def displayZ(Z):
     # set 3D figure
     fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
     surf = ax.plot_surface(X, Y, Z, facecolors=color_shade,
-                       rstride=3, cstride=3)
+                       rstride=8, cstride=8)
     plt.axis('off')
     plt.show()
 
@@ -68,8 +68,16 @@ def loadIstack():
 
     rows = 0
     cols = 0
-    for i in range(7):
-        I = readimage("../data/input_{:d}.tif".format(i+1));
+    for i in range(5):
+        # bear [1250:3500,2500:4250]
+        d = 600
+        # I = readimage("../data/input/DSC_011{:d}.tiff".format(i))[1250 - d:3500+d,2500-d:4250+d][::4,::4]
+
+        # bottle
+        I = readimage("../data/bottle/DSC_01{:d}.JPG".format(i+19))[1250 - d:3000+d,3450-d:4150+d][::4, ::4]
+        
+
+        # I = readimage("../data/input_{:d}.tif".format(i+1));
         rows, cols = I.shape[0], I.shape[1]
         I = helper.lRGB2XYZ(convert(I))
         I_f = I[:, :, 1].flatten()
@@ -104,7 +112,7 @@ def uncali(I, rows, cols):
     # print(vh.shape)
 
     B = np.reshape(np.transpose(vh), (rows, cols, 3))
-    displayb(B)
+    # displayb(B)
     return B
     
 def enforce(b):
@@ -179,7 +187,14 @@ def integrate(B):
     dy = -y / (z + eps)
     #I = cp_hw5.integrate_poisson(dx, dy)
     
-    I = cp_hw5.integrate_frankot(dx, dy)
+    # for bear 
+    # dx,dy = dx[1250:3500,2500:4250], dy[1250:3500,2500:4250]
+    
+    I = cp_hw5.integrate_poisson(dx[::1, ::1],dy[::1,::1])
+
+    with open('bottle.npy', 'wb') as f:
+        np.save(f, I)
+    print(I.shape)
     # plt.imshow(1 - I, cmap = 'gray')
     # plt.show()
     displayZ(I)
@@ -192,18 +207,37 @@ def cali(I, rows, cols):
     #print(I.shape, w.shape)
 
 def main():
-    I, rows, cols = loadIstack()
+    # I, rows, cols = loadIstack()
     
-    # part A
+    # # part A
     # B = uncali(I, rows, cols)
-    # part B
+    # # part B
     # B = enforce(B)
+    # displayb(B)
     
     # part D
-    B = cali(I, rows, cols)
+    # B = cali(I, rows, cols)
     # displayb(B)
 
     # part C
-    integrate(B)
+    # integrate(B)
+
+
+    # P2 joint
+    bear = np.zeros((1,1))
+    with open('bear.npy','rb') as f:
+        bear = np.load(f)
+    bottle = np.zeros((1,1))
+    with open('bottle.npy','rb') as f:
+        bottle = np.load(f)
+
+    
+
+    largebear = np.zeros(bottle.shape) - 50
+    r,c = 175, 175
+    largebear[r:r+bear.shape[0], c:c+bear.shape[1]] = bear
+    joint = np.hstack([largebear, bottle]);
+    
+    displayZ(joint)
 
 main()
