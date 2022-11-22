@@ -57,7 +57,7 @@ def displayZ(Z):
     # set 3D figure
     fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
     surf = ax.plot_surface(X, Y, Z, facecolors=color_shade,
-                       rstride=8, cstride=8)
+                       rstride=5, cstride=5)
     plt.axis('off')
     plt.show()
 
@@ -70,11 +70,11 @@ def loadIstack():
     cols = 0
     for i in range(5):
         # bear [1250:3500,2500:4250]
-        d = 600
-        # I = readimage("../data/input/DSC_011{:d}.tiff".format(i))[1250 - d:3500+d,2500-d:4250+d][::4,::4]
+        # d = 600
+        # # I = readimage("../data/input/DSC_011{:d}.tiff".format(i))[1250 - d:3500+d,2500-d:4250+d][::4,::4]
 
-        # bottle
-        I = readimage("../data/bottle/DSC_01{:d}.JPG".format(i+19))[1250 - d:3000+d,3450-d:4150+d][::4, ::4]
+        # # bottle
+        # I = readimage("../data/bottle/DSC_01{:d}.JPG".format(i+19))[1250 - d:3000+d,3450-d:4150+d][::4, ::4]
         
 
         # I = readimage("../data/input_{:d}.tif".format(i+1));
